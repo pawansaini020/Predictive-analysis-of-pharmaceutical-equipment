@@ -12,6 +12,8 @@
 ### Mentor
 * Dr. Adway Mitra
 * Dr. Nilgiri Puhan
+### Details about problem statement
+In manufacturing, it is important to have predictive maintenance of equipment with sensors, tracking operating conditions & performance of machines, predicting breakdowns, malfunctions, and recommending preventive actions. Tracking parts inventories and monitoring product quality. The failure in the equipment used in the pharmaceutical industries may impact the overall quality of the drug
 ### Install required libraries
 ```html
 pip install pandas
